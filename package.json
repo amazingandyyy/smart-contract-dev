@@ -1,5 +1,5 @@
 {
-  "name": "harthat-starter",
+  "name": "smart-contract-dev",
   "version": "0.0.1",
   "description": "",
   "scripts": {
@@ -14,7 +14,6 @@
     "solidity",
     "truffle",
     "hardhat",
-    "jest",
     "smart-contract"
   ],
   "author": "Amazingandyyy <amazingandyyy@gmail.com> (Andy Chen)",
