@@ -1,4 +1,4 @@
-const pretterrc = require('.pretterrc');
+const pretterrc = require('./.prettierrc.js');
 
 module.exports = {
   env: {
