@@ -52,6 +52,7 @@
     "solidity-coverage": "^0.7.19"
   },
   "dependencies": {
+    "@openzeppelin/contracts": "^4.5.0",
     "semantic-release": "^19.0.2"
   }
 }
